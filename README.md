@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jenny.
+- 👀 Currently in learning mode.
+- 🌱 Javascript.
